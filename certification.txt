@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Todoo 1.0
+---------------------------------------------------
+
+app_name - 						Todoo
+app_alias - 					todoo
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Tokyo
+app_author_country - 			Japan
+app_password - 					9Ac26QEh8sYb
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Thursday 8th of June 2023 12:01:41 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
